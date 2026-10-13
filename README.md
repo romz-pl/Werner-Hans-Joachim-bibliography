@@ -52,22 +52,17 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
     Kreplin D.A., Werner H.-J.
     [Journal of Chemical Physics, 2022, 156(21), 214111](https://doi.org/10.1063/5.0094292)
 
-
-
 11. **Explicitly Correlated Open-Shell Coupled-Cluster with Pair Natural Orbitals PNO-RCCSD(T)-F12 and PNO-UCCSD(T)-F12**
     Ma Q., Werner H.-J.
     [Journal of Chemical Theory and Computation, 2021, 17(2), 902–926](https://doi.org/10.1021/acs.jctc.0c01129)
 
-12
-Breaking established paradigms: a tribute to Wilfried Meyer's contributions to ab initio quantum chemistry
-Pulay P., Werner H.-J.
-Molecular Physics, 2020, 118(21-22), e1730993
+12. **Breaking established paradigms: a tribute to Wilfried Meyer's contributions to ab initio quantum chemistry**
+   Pulay P., Werner H.-J.
+   [Molecular Physics, 2020, 118(21-22), e1730993](https://doi.org/10.1080/00268976.2020.1730993)
 
-13
-Atoms and molecules in soft confinement potentials
-Pasteka L.F., Helgaker T., Saue T., ... Major J., Schwerdtfeger P.
-Molecular Physics, 2020, 118(19-20), e1730989
-
+13. **Atoms and molecules in soft confinement potentials**
+   Pasteka L.F., Helgaker T., Saue T., ... Major J., Schwerdtfeger P.
+   [Molecular Physics, 2020, 118(19-20), e1730989](https://doi.org/10.1080/00268976.2020.1730989)
 
 14. **Scalable Electron Correlation Methods. 7. Local Open-Shell Coupled-Cluster Methods Using Pair Natural Orbitals: PNO-RCCSD and PNO-UCCSD**
     Ma Q., Werner H.-J.
@@ -77,50 +72,29 @@ Molecular Physics, 2020, 118(19-20), e1730989
     Werner H.-J., Knowles P.J., Manby F.R., ... Rauhut G., Sibaev M.
     [Journal of Chemical Physics, 2020, 152(14), 144107](https://doi.org/10.1063/5.0005081)
 
+16. **MCSCF optimization revisited. II. Combined first- and second-order orbital optimization for large molecules**
+   Kreplin D.A., Knowles P.J., Werner H.-J.
+   Journal of Chemical Physics, 2020, 152(7), 074102
 
+17. **Correspondence on "Core Electron Topologies in Chemical Compounds: Case Study of Carbon versus Silicon"**
+   von Szentpaly L., Schwarz W.H.E., Stoll H., Werner H.-J.
+   Angewandte Chemie International Edition, 2019, 58(31)
 
+18. **Analytical energy gradients for local second-order Møller-Plesset perturbation theory using intrinsic bond orbitals**
+   Dornbach M., Werner H.-J.
+   Molecular Physics, 2019, 117(9-12)
 
+19. **Multi-state local complete active space second-order perturbation theory using pair natural orbitals (PNO-MS-CASPT2)**
+   Kats D., Werner H.-J.
+   Journal of Chemical Physics, 2019, 150(21), 214107
 
-16
-MCSCF optimization revisited. II. combined first- A nd second-order orbital optimization for large molecules
-Kreplin D.A., Knowles P.J., Werner H.-J.
-Journal of Chemical Physics, 2020, 152(7), 074102
+20. **Second-order MCSCF optimization revisited. I. Improved algorithms for fast and robust second-order CASSCF convergence**
+   Kreplin D.A., Knowles P.J., Werner H.-J.
+   Journal of Chemical Physics, 2019, 150(19), 194106
 
-
-
-17
-Correspondence on “Core Electron Topologies in Chemical Compounds: Case Study of Carbon versus Silicon”
-von Szentpaly L., Schwarz W.H.E., Stoll H., Werner H.-J.
-Angewandte Chemie International Edition, 2019, 58(31)
-
-
-
-18
-Analytical energy gradients for local second-order Møller-Plesset perturbation theory using intrinsic bond orbitals
-Dornbach M., Werner H.-J.
-Molecular Physics, 2019, 117(9-12)
-
-
-
-19
-Multi-state local complete active space second-order perturbation theory using pair natural orbitals (PNO-MS-CASPT2)
-Kats D., Werner H.-J.
-Journal of Chemical Physics, 2019, 150(21), 214107
-
-
-
-20
-Second-order MCSCF optimization revisited. I. Improved algorithms for fast and robust second-order CASSCF convergence
-Kreplin D.A., Knowles P.J., Werner H.-J.
-Journal of Chemical Physics, 2019, 150(19), 194106
-
-
-
-21
-Perturbation Expansion of Internally Contracted Coupled-Cluster Theory up to Third Order
-Aoto Y.A., Bargholz A., Kats D., Werner H.-J., Kohn A.
-Journal of Chemical Theory and Computation, 2019, 15(4)
-
+21. **Perturbation Expansion of Internally Contracted Coupled-Cluster Theory up to Third Order**
+   Aoto Y.A., Bargholz A., Kats D., Werner H.-J., Kohn A.
+   Journal of Chemical Theory and Computation, 2019, 15(4)
 
 
 22. **Accurate Intermolecular Interaction Energies Using Explicitly Correlated Local Coupled Cluster Methods [PNO-LCCSD(T)-F12]**
@@ -129,197 +103,118 @@ Journal of Chemical Theory and Computation, 2019, 15(4)
 
 
 
-23
-Scalable Electron Correlation Methods. 6. Local Spin-Restricted Open-Shell Second-Order Møller-Plesset Perturbation Theory Using Pair Natural Orbitals: PNO-RMP2
-Krause C., Werner H.-J.
-Journal of Chemical Theory and Computation, 2019, 15(2)
+I'll format these references following your example, keeping the numbering from 23 to 50. The example has a bold title, then the author list, then the journal line with a link, but I don't have DOIs for these entries, so I'll leave out the links rather than invent them.
 
+23. **Scalable Electron Correlation Methods. 6. Local Spin-Restricted Open-Shell Second-Order Møller-Plesset Perturbation Theory Using Pair Natural Orbitals: PNO-RMP2**
+   Krause C., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2019, 15(2)
 
+24. **Toward fast and accurate: Ab initio calculation of magnetic exchange in polynuclear lanthanide complexes**
+   Hallmen P.P., Werner H.-J., Kats D., ... Stoll H., Van Slageren J.
+   Physical Chemistry Chemical Physics, 2019, 21(19)
 
-24
-Toward fast and accurate: Ab initio calculation of magnetic exchange in polynuclear lanthanide complexes
-Hallmen P.P., Werner H.-J., Kats D., ... Stoll H., Van Slageren J.
-Physical Chemistry Chemical Physics, 2019, 21(19)
+25. **Correction: Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12) (Journal of Chemical Theory and Computation (2017) 13:10 (4871-4896) DOI: 10.1021/acs.jctc.7b00799)**
+   Ma Q., Schwilk M., Koppl C., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2018, 14(12)
 
+26. **Explicitly correlated local coupled-cluster methods using pair natural orbitals**
+   Ma Q., Werner H.-J.
+   Wiley Interdisciplinary Reviews Computational Molecular Science, 2018, 8(6), e1371
 
-25
-Correction: Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12) (Journal of Chemical Theory and Computation (2017) 13:10 (4871-4896) DOI: 10.1021/acs.jctc.7b00799)
-Ma Q., Schwilk M., Koppl C., Werner H.-J.
-Journal of Chemical Theory and Computation, 2018, 14(12)
+27. **Analytical energy gradients for explicitly correlated wave functions. II. Explicitly correlated coupled cluster singles and doubles with perturbative triples corrections: CCSD(T)-F12**
+   Gyorffy W., Werner H.-J.
+   Journal of Chemical Physics, 2018, 148(11), 114104
 
+28. **Embedded Multireference Coupled Cluster Theory**
+   Coughtrie D.J., Giereth R., Kats D., Werner H.-J., Kohn A.
+   Journal of Chemical Theory and Computation, 2018, 14(2)
 
+29. **Scalable Electron Correlation Methods. 5. Parallel Perturbative Triples Correction for Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals**
+   Ma Q., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2018, 14(1)
 
-26
+30. **Analytical energy gradients for explicitly correlated wave functions. I. Explicitly correlated second-order Møller-Plesset perturbation theory**
+   Gyorffy W., Knizia G., Werner H.-J.
+   Journal of Chemical Physics, 2017, 147(21), 214101
 
-Explicitly correlated local coupled-cluster methods using pair natural orbitals
-Ma Q., Werner H.-J.
-Wiley Interdisciplinary Reviews Computational Molecular Science, 2018, 8(6), e1371
+31. **Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12)**
+   Ma Q., Schwilk M., Koppl C., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2017, 13(10)
 
+32. **Scalable Electron Correlation Methods. 3. Efficient and Accurate Parallel Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD)**
+   Schwilk M., Ma Q., Koppl C., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2017, 13(8)
 
+33. **Explicitly Correlated Local Electron Correlation Methods**
+   Werner H.-J., Koppl C., Ma Q., Schwilk M.
+   Fragmentation Toward Accurate Calculations on Complex Molecular Systems, 2017
 
-27
-Analytical energy gradients for explicitly correlated wave functions. II. Explicitly correlated coupled cluster singles and doubles with perturbative triples corrections: CCSD(T)-F12
-Gyorffy W., Werner H.-J.
-Journal of Chemical Physics, 2018, 148(11), 114104
+34. **Communication: Multipole approximations of distant pair energies in local correlation methods with pair natural orbitals**
+   Werner H.-J.
+   Journal of Chemical Physics, 2016, 145(20), 201101
 
+35. **Local complete active space second-order perturbation theory using pair natural orbitals (PNO-CASPT2)**
+   Menezes F., Kats D., Werner H.-J.
+   Journal of Chemical Physics, 2016, 145(12), 124115
 
+36. **Parallel and low-order scaling implementation of Hartree-Fock exchange using local density fitting**
+   Koppl C., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2016, 12(7)
 
-28
-Embedded Multireference Coupled Cluster Theory
-Coughtrie D.J., Giereth R., Kats D., Werner H.-J., Kohn A.
-Journal of Chemical Theory and Computation, 2018, 14(2)
+37. **Scalable Electron Correlation Methods. 2. Parallel PNO-LMP2-F12 with Near Linear Scaling in the Molecular Size**
+   Ma Q., Werner H.-J.
+   Journal of Chemical Theory and Computation, 2015, 11(11)
 
+38. **What is the price of open-source software?**
+   Krylov A.I., Herbert J.M., Furche F., ... Skylaris C.-K., Werner H.-J.
+   Journal of Physical Chemistry Letters, 2015, 6(14)
 
+39. **On the use of Abelian point group symmetry in density-fitted local MP2 using various types of virtual orbitals**
+   Koppl C., Werner H.-J.
+   Journal of Chemical Physics, 2015, 142(16), 164108
 
-29
-Scalable Electron Correlation Methods. 5. Parallel Perturbative Triples Correction for Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals
-Ma Q., Werner H.-J.
-Journal of Chemical Theory and Computation, 2018, 14(1)
+40. **Communication: Improved pair approximations in local coupled-cluster methods**
+   Schwilk M., Usvyat D., Werner H.-J.
+   Journal of Chemical Physics, 2015, 142(12), 121102
 
+41. **Accurate thermochemistry from explicitly correlated distinguishable cluster approximation**
+   Kats D., Kreplin D., Werner H.-J., Manby F.R.
+   Journal of Chemical Physics, 2015, 142(6), 064111
 
+42. **Scalable electron correlation methods I.: PNO-LMP2 with linear scaling in the molecular size and near-inverse-linear scaling in the number of processors**
+   Werner H.-J., Knizia G., Krause C., Schwilk M., Dornbach M.
+   Journal of Chemical Theory and Computation, 2015, 11(2)
 
-30
-Analytical energy gradients for explicitly correlated wave functions. I. Explicitly correlated second-order Møller-Plesset perturbation theory
-Gyorffy W., Knizia G., Werner H.-J.
-Journal of Chemical Physics, 2017, 147(21), 214101
+43. **Synthesis and characterization of fluorinated and sulfonated poly(arylene ether-1,3,4-oxadiazole) derivatives and their blend membranes**
+   Hajdok I., Bona A., Werner H.-J., Kerres J.
+   European Polymer Journal, 2014, 52(1)
 
+44. **The electronic ground state of [Fe(CO)3(NO)]-: A spectroscopic and theoretical study**
+   Klein J.E.M.N., Miehlich B., Holzwarth M.S., ... Werner H.-J., Plietker B.
+   Angewandte Chemie International Edition, 2014, 53(7)
 
+45. **Werner H.-J.**
+   Molecular Physics, 2013, 111(21)
 
-31
-Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12)
-Ma Q., Schwilk M., Koppl C., Werner H.-J.
-Journal of Chemical Theory and Computation, 2017, 13(10)
+46. **Pyrazine excited states revisited using the extended multi-state complete active space second-order perturbation method**
+   Shiozaki T., Woywod C., Werner H.-J.
+   Physical Chemistry Chemical Physics, 2013, 15(1)
 
+47. **Explicitly correlated composite thermochemistry of transition metal species**
+   Bross D.H., Hill J.G., Werner H.-J., Peterson K.A.
+   Journal of Chemical Physics, 2013, 139(9), 094302
 
+48. **Analytical energy gradients for second-order multireference perturbation theory using density fitting**
+   Gyrffy W., Shiozaki T., Knizia G., Werner H.-J.
+   Journal of Chemical Physics, 2013, 138(10), 104104
 
-32
-Scalable Electron Correlation Methods. 3. Efficient and Accurate Parallel Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD)
-Schwilk M., Ma Q., Koppl C., Werner H.-J.
-Journal of Chemical Theory and Computation, 2017, 13(8)
+49. **Multireference explicitly correlated F12 theories**
+   Shiozaki T., Werner H.-J.
+   Molecular Physics, 2013, 111(5)
 
-
-
-33
-Explicitly Correlated Local Electron Correlation Methods
-Werner H.-J., Koppl C., Ma Q., Schwilk M.
-Fragmentation Toward Accurate Calculations on Complex Molecular Systems, 2017
-
-
-
-34
-Communication: Multipole approximations of distant pair energies in local correlation methods with pair natural orbitals
-Werner H.-J.
-Journal of Chemical Physics, 2016, 145(20), 201101
-
-
-
-35
-Local complete active space second-order perturbation theory using pair natural orbitals (PNO-CASPT2)
-Menezes F., Kats D., Werner H.-J.
-Journal of Chemical Physics, 2016, 145(12), 124115
-
-
-
-36
-Parallel and low-order scaling implementation of Hartree-Fock exchange using local density fitting
-Koppl C., Werner H.-J.
-Journal of Chemical Theory and Computation, 2016, 12(7)
-
-
-37
-Scalable Electron Correlation Methods. 2. Parallel PNO-LMP2-F12 with Near Linear Scaling in the Molecular Size
-Ma Q., Werner H.-J.
-Journal of Chemical Theory and Computation, 2015, 11(11)
-
-
-
-38
-What is the price of open-source software?
-Krylov A.I., Herbert J.M., Furche F., ... Skylaris C.-K., Werner H.-J.
-Journal of Physical Chemistry Letters, 2015, 6(14)
-
-
-
-39
-On the use of Abelian point group symmetry in density-fitted local MP2 using various types of virtual orbitals
-Koppl C., Werner H.-J.
-Journal of Chemical Physics, 2015, 142(16), 164108
-
-
-
-40
-Communication: Improved pair approximations in local coupled-cluster methods
-Schwilk M., Usvyat D., Werner H.-J.
-Journal of Chemical Physics, 2015, 142(12), 121102
-
-
-
-41
-Accurate thermochemistry from explicitly correlated distinguishable cluster approximation
-Kats D., Kreplin D., Werner H.-J., Manby F.R.
-Journal of Chemical Physics, 2015, 142(6), 064111
-
-
-
-42
-Scalable electron correlation methods I.: PNO-LMP2 with linear scaling in the molecular size and near-inverse-linear scaling in the number of processors
-Werner H.-J., Knizia G., Krause C., Schwilk M., Dornbach M.
-Journal of Chemical Theory and Computation, 2015, 11(2)
-
-
-
-43
-Synthesis and characterization of fluorinated and sulfonated poly(arylene ether-1,3,4-oxadiazole) derivatives and their blend membranes
-Hajdok I., Bona A., Werner H.-J., Kerres J.
-European Polymer Journal, 2014, 52(1)
-
-
-
-44
-The electronic ground state of [Fe(CO)3(NO)]-: A spectroscopic and theoretical study
-Klein J.E.M.N., Miehlich B., Holzwarth M.S., ... Werner H.-J., Plietker B.
-Angewandte Chemie International Edition, 2014, 53(7)
-
-
-
-45
-Werner H.-J.
-Molecular Physics, 2013, 111(21)
-
-
-
-46
-Pyrazine excited states revisited using the extended multi-state complete active space second-order perturbation method
-Shiozaki T., Woywod C., Werner H.-J.
-Physical Chemistry Chemical Physics, 2013, 15(1)
-
-
-
-47
-Explicitly correlated composite thermochemistry of transition metal species
-Bross D.H., Hill J.G., Werner H.-J., Peterson K.A.
-Journal of Chemical Physics, 2013, 139(9), 094302
-
-
-
-48
-Analytical energy gradients for second-order multireference perturbation theory using density fitting
-Gyrffy W., Shiozaki T., Knizia G., Werner H.-J.
-Journal of Chemical Physics, 2013, 138(10), 104104
-
-
-
-49
-Multireference explicitly correlated F12 theories
-Shiozaki T., Werner H.-J.
-Molecular Physics, 2013, 111(5)
-
-
-50
-The orbital-specific virtual local triples correction: OSV-L(T)
-Schutz M., Yang J., Chan G.K.-L., Manby F.R., Werner H.-J.
-Journal of Chemical Physics, 2013, 138(5), 054109
-
+50. **The orbital-specific virtual local triples correction: OSV-L(T)**
+   Schutz M., Yang J., Chan G.K.-L., Manby F.R., Werner H.-J.
+   Journal of Chemical Physics, 2013, 138(5), 054109
 
 
 51
