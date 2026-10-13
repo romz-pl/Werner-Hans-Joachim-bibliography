@@ -11,70 +11,46 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 ## Bibliography
 
-1
-Revisiting acene dimers: A comprehensive theoretical study of a less explored conformer
-Matsokin N.A., Kalinin M., Buchwald A., ... Fink K., Sharapa D.I.
-Journal of Chemical Physics, 2026, 164(13), 134312
+1. **Revisiting acene dimers: A comprehensive theoretical study of a less explored conformer**
+   Matsokin N.A., Kalinin M., Buchwald A., ... Fink K., Sharapa D.I.
+   [Journal of Chemical Physics, 2026, 164(13), 134312](https://doi.org/10.1063/5.0324531)
 
+2. **Accurate Calculation of Noncovalent Interactions Using PNO-LCCSD(T)-F12 in Molpro**
+   Hansen A., Knowles P.J., Werner H.-J.
+   [Journal of Physical Chemistry A, 2025, 129(21)](https://doi.org/10.1021/acs.jpca.5c02316)
 
-2
-Accurate Calculation of Noncovalent Interactions Using PNO-LCCSD(T)-F12 in Molpro
-Hansen A., Knowles P.J., Werner H.-J.
-Journal of Physical Chemistry A, 2025, 129(21)
+3. **Local Wave Function Embedding: Correlation Regions in PNO-LCCSD(T)-F12 Calculations**
+   Werner H.-J., Hansen A.
+   Journal of Physical Chemistry A, 2024, 128(50)
+   DOI: not yet confirmed
 
+4. **Roadmap on methods and software for electronic structure based simulations in chemistry and materials**
+   Blum V., Asahi R., Autschbach J., ... Williams-Young D.B., Windus T.
+   [Electronic Structure, 2024, 6(4), 042501](https://doi.org/10.1088/2516-1075/ad48ec)
 
-3
-Local Wave Function Embedding: Correlation Regions in PNO-LCCSD(T)-F12 Calculations
-Werner H.-J., Hansen A.
-Journal of Physical Chemistry A, 2024, 128(50)
+5. **A density-fitting implementation of the density-based basis-set correction method**
+   Hesselmann A., Giner E., Reinhardt P., ... Werner H.-J., Toulouse J.
+   [Journal of Computational Chemistry, 2024, 45(15)](https://doi.org/10.1002/jcc.27325)
 
+6. **The p-block challenge: assessing quantum chemistry methods for inorganic heterocycle dimerizations**
+   Gasevic T., Bursch M., Ma Q., ... Werner H.-J., Hansen A.
+   [Physical Chemistry Chemical Physics, 2024, 26(18)](https://doi.org/10.1039/D3CP06217A)
 
+7. **Accurate Calculation of Isomerization and Conformational Energies of Larger Molecules Using Explicitly Correlated Local Coupled Cluster Methods in Molpro and ORCA**
+   Werner H.-J., Hansen A.
+   [Journal of Chemical Theory and Computation, 2023, 19(20)](https://doi.org/10.1021/acs.jctc.3c00270)
 
-4
-Roadmap on methods and software for electronic structure based simulations in chemistry and materials
-Blum V., Asahi R., Autschbach J., ... Williams-Young D.B., Windus T.
-Electronic Structure, 2024, 6(4), 042501
+8. **Hibridon: A program suite for time-independent non-reactive quantum scattering calculations**
+   Alexander M.H., Dagdigian P.J., Werner H.-J., ... Raffy G., Lique F.
+   [Computer Physics Communications, 2023, 289, 108761](https://doi.org/10.1016/j.cpc.2023.108761)
 
+9. **Thermochemical evaluation of adaptive and fixed density functional theory quadrature schemes**
+   Hesselmann A., Werner H.-J., Knowles P.J.
+   [Journal of Chemical Physics, 2022, 157(23), 234106](https://doi.org/10.1063/5.0119622)
 
-
-5
-A density-fitting implementation of the density-based basis-set correction method
-Hesselmann A., Giner E., Reinhardt P., ... Werner H.-J., Toulouse J.
-Journal of Computational Chemistry, 2024, 45(15)
-
-
-
-6
-The p-block challenge: assessing quantum chemistry methods for inorganic heterocycle dimerizations
-Gasevic T., Bursch M., Ma Q., ... Werner H.-J., Hansen A.
-Physical Chemistry Chemical Physics, 2024, 26(18)
-
-
-
-7
-Accurate Calculation of Isomerization and Conformational Energies of Larger Molecules Using Explicitly Correlated Local Coupled Cluster Methods in Molpro and ORCA
-Werner H.-J., Hansen A.
-Journal of Chemical Theory and Computation, 2023, 19(20)
-
-
-
-8
-Hibridon: A program suite for time-independent non-reactive quantum scattering calculations
-Alexander M.H., Dagdigian P.J., Werner H.-J., ... Raffy G., Lique F.
-Computer Physics Communications, 2023, 289, 108761
-
-
-
-9
-Thermochemical evaluation of adaptive and fixed density functional theory quadrature schemes
-Hesselmann A., Werner H.-J., Knowles P.J.
-Journal of Chemical Physics, 2022, 157(23), 234106
-
-
-10
-A combined first- and second-order optimization method for improving convergence of Hartree-Fock and Kohn-Sham calculations
-Kreplin D.A., Werner H.-J.
-Journal of Chemical Physics, 2022, 156(21), 214111
+10. **A combined first- and second-order optimization method for improving convergence of Hartree-Fock and Kohn-Sham calculations**
+    Kreplin D.A., Werner H.-J.
+    [Journal of Chemical Physics, 2022, 156(21), 214111](https://doi.org/10.1063/5.0094292)
 
 
 
