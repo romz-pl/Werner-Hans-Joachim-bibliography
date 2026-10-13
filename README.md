@@ -54,19 +54,14 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 
 
-11
-Scalable Electron Correlation Methods. 8. Explicitly Correlated Open-Shell Coupled-Cluster with Pair Natural Orbitals PNO-RCCSD(T)-F12 and PNO-UCCSD(T)-F12
-Ma Q., Werner H.-J.
-Journal of Chemical Theory and Computation, 2021, 17(2)
-
-
+11. **Explicitly Correlated Open-Shell Coupled-Cluster with Pair Natural Orbitals PNO-RCCSD(T)-F12 and PNO-UCCSD(T)-F12**
+    Ma Q., Werner H.-J.
+    [Journal of Chemical Theory and Computation, 2021, 17(2), 902–926](https://doi.org/10.1021/acs.jctc.0c01129)
 
 12
 Breaking established paradigms: a tribute to Wilfried Meyer's contributions to ab initio quantum chemistry
 Pulay P., Werner H.-J.
 Molecular Physics, 2020, 118(21-22), e1730993
-
-
 
 13
 Atoms and molecules in soft confinement potentials
@@ -74,18 +69,15 @@ Pasteka L.F., Helgaker T., Saue T., ... Major J., Schwerdtfeger P.
 Molecular Physics, 2020, 118(19-20), e1730989
 
 
+14. **Scalable Electron Correlation Methods. 7. Local Open-Shell Coupled-Cluster Methods Using Pair Natural Orbitals: PNO-RCCSD and PNO-UCCSD**
+    Ma Q., Werner H.-J.
+    [Journal of Chemical Theory and Computation, 2020, 16(5), 3135–3151](https://doi.org/10.1021/acs.jctc.0c00192)
 
-14
-Scalable Electron Correlation Methods. 7. Local Open-Shell Coupled-Cluster Methods Using Pair Natural Orbitals: PNO-RCCSD and PNO-UCCSD
-Ma Q., Werner H.-J.
-Journal of Chemical Theory and Computation, 2020, 16(5)
+15. **The Molpro quantum chemistry package**
+    Werner H.-J., Knowles P.J., Manby F.R., ... Rauhut G., Sibaev M.
+    [Journal of Chemical Physics, 2020, 152(14), 144107](https://doi.org/10.1063/5.0005081)
 
 
-
-15
-The Molpro quantum chemistry package
-Werner H.-J., Knowles P.J., Manby F.R., ... Rauhut G., Sibaev M.
-Journal of Chemical Physics, 2020, 152(14), 144107
 
 
 
@@ -131,10 +123,9 @@ Journal of Chemical Theory and Computation, 2019, 15(4)
 
 
 
-22
-Accurate Intermolecular Interaction Energies Using Explicitly Correlated Local Coupled Cluster Methods [PNO-LCCSD(T)-F12]
-Ma Q., Werner H.-J.
-Journal of Chemical Theory and Computation, 2019, 15(2)
+22. **Accurate Intermolecular Interaction Energies Using Explicitly Correlated Local Coupled Cluster Methods [PNO-LCCSD(T)-F12]**
+    Ma Q., Werner H.-J.
+    [Journal of Chemical Theory and Computation, 2019, 15(2), 1044–1052](https://doi.org/10.1021/acs.jctc.8b01098)
 
 
 
