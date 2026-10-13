@@ -32,7 +32,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 3. **Local Wave Function Embedding: Correlation Regions in PNO-LCCSD(T)-F12 Calculations**
    Werner H.-J., Hansen A.
    Journal of Physical Chemistry A, 2024, 128(50)
-   DOI: not yet confirmed
+
 
 4. **Roadmap on methods and software for electronic structure based simulations in chemistry and materials**
    Blum V., Asahi R., Autschbach J., ... Williams-Young D.B., Windus T.
