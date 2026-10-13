@@ -1,4 +1,4 @@
-# Hans-Joachim Werner
+# Hans-Joachim Werner Bibliography
 
 Hans-Joachim Werner is a German theoretical chemist, born in Hamburg in 1950, and one of the most internationally recognized figures in quantum chemistry. He is now retired. The Institute for Theoretical Chemistry at the University of Stuttgart lists him as a retired group leader, and Andreas Köhn is currently head of the institute.
 
@@ -8,10 +8,9 @@ His best-known contribution is the Molpro quantum chemistry program, which he de
 
 His honors include the Leibniz Prize from the German Research Foundation (2000), an ERC Advanced Grant (2013), the Erich Hückel Prize from the German Chemical Society (2018), and a Humboldt Research Award (1988). He has also sat on the editorial boards of several theoretical and computational chemistry journals.
 
-## Bibliography
 
 
-### 2026
+## 2026
 
 
 1. **Revisiting acene dimers: A comprehensive theoretical study of a less explored conformer**
@@ -19,7 +18,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Physics, 2026, 164(13), 134312](https://doi.org/10.1063/5.0324531)
 
 
-### 2025
+## 2025
 
 
 2. **Accurate Calculation of Noncovalent Interactions Using PNO-LCCSD(T)-F12 in Molpro**
@@ -27,7 +26,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Physical Chemistry A, 2025, 129(21)](https://doi.org/10.1021/acs.jpca.5c02316)
 
 
-### 2024
+## 2024
 
 
 3. **Local Wave Function Embedding: Correlation Regions in PNO-LCCSD(T)-F12 Calculations**
@@ -48,7 +47,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Physical Chemistry Chemical Physics, 2024, 26(18)](https://doi.org/10.1039/D3CP06217A)
 
 
-### 2023
+## 2023
 
 
 7. **Accurate Calculation of Isomerization and Conformational Energies of Larger Molecules Using Explicitly Correlated Local Coupled Cluster Methods in Molpro and ORCA**
@@ -60,7 +59,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Computer Physics Communications, 2023, 289, 108761](https://doi.org/10.1016/j.cpc.2023.108761)
 
 
-### 2022
+## 2022
 
 
 9. **Thermochemical evaluation of adaptive and fixed density functional theory quadrature schemes**
@@ -72,7 +71,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Physics, 2022, 156(21), 214111](https://doi.org/10.1063/5.0094292)
 
 
-### 2021
+## 2021
 
 
 11. **Explicitly Correlated Open-Shell Coupled-Cluster with Pair Natural Orbitals PNO-RCCSD(T)-F12 and PNO-UCCSD(T)-F12**
@@ -80,7 +79,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Theory and Computation, 2021, 17(2), 902–926](https://doi.org/10.1021/acs.jctc.0c01129)
 
 
-### 2020
+## 2020
 
 
 12. **Breaking established paradigms: a tribute to Wilfried Meyer's contributions to ab initio quantum chemistry**
@@ -104,7 +103,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 2020, 152(7), 074102
 
 
-### 2019
+## 2019
 
 
 17. **Correspondence on "Core Electron Topologies in Chemical Compounds: Case Study of Carbon versus Silicon"**
@@ -140,7 +139,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Physical Chemistry Chemical Physics, 2019, 21(19)
 
 
-### 2018
+## 2018
 
 
 25. **Correction: Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12) (Journal of Chemical Theory and Computation (2017) 13:10 (4871-4896) DOI: 10.1021/acs.jctc.7b00799)**
@@ -164,7 +163,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Theory and Computation, 2018, 14(1)
 
 
-### 2017
+## 2017
 
 
 30. **Analytical energy gradients for explicitly correlated wave functions. I. Explicitly correlated second-order Møller-Plesset perturbation theory**
@@ -184,7 +183,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Fragmentation Toward Accurate Calculations on Complex Molecular Systems, 2017
 
 
-### 2016
+## 2016
 
 
 34. **Communication: Multipole approximations of distant pair energies in local correlation methods with pair natural orbitals**
@@ -200,7 +199,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Theory and Computation, 2016, 12(7), 3122–3134](https://doi.org/10.1021/acs.jctc.6b00251)
 
 
-### 2015
+## 2015
 
 
 37. **Scalable Electron Correlation Methods. 2. Parallel PNO-LMP2-F12 with Near Linear Scaling in the Molecular Size**
@@ -228,7 +227,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Theory and Computation, 2015, 11(2)](https://doi.org/10.1021/ct500725e)
 
 
-### 2014
+## 2014
 
 
 43. **Synthesis and characterization of fluorinated and sulfonated poly(arylene ether-1,3,4-oxadiazole) derivatives and their blend membranes**
@@ -240,7 +239,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Angewandte Chemie International Edition, 2014, 53(7)](https://doi.org/10.1002/anie.201309767)
 
 
-### 2013
+## 2013
 
 
 45. **Werner H.-J.**
@@ -267,7 +266,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    [Journal of Chemical Physics, 2013, 138(5), 054109](https://doi.org/10.1063/1.4789415)
 
 
-### 2012
+## 2012
 
 
 51. **Role of tunneling in the enzyme glutamate mutase**
@@ -287,7 +286,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Physical Chemistry Chemical Physics, 2012, 14(21)
 
 
-### 2011
+## 2011
 
 
 55. **Application of explicitly correlated coupled-cluster methods to molecules containing post-3 d main group elements**
@@ -350,7 +349,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Challenges and Advances in Computational Chemistry and Physics, 2011, 13
 
 
-### 2010
+## 2010
 
 
 70. **Analytic gradients for the combined sr-DFT/lr-MP2 method: Application to weakly bound systems**
@@ -381,7 +380,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Challenges and Advances in Computational Chemistry and Physics, 2010, 11
 
 
-### 2009
+## 2009
 
 
 77. **Extrapolating MP2 and CCSD explicitly correlated correlation energies to the complete basis set limit with first and second row correlation consistent basis sets**
@@ -413,7 +412,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Zeitschrift Fur Physikalische Chemie, 2009, 223(4-5)
 
 
-### 2008
+## 2008
 
 
 84. **The extent of non-born-oppenheimer coupling in the reaction of Cl( 2P) with para-H2**
@@ -476,7 +475,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 2008, 128(2), 025104
 
 
-### 2007
+## 2007
 
 
 99. **High-accuracy extrapolated ab initio thermochemistry of vinyl chloride**
@@ -524,7 +523,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Ab Initio Methods in Quantum Chemistry II, 2007, 69
 
 
-### 2006
+## 2006
 
 
 110. **Chapter 4 On the Selection of Domains and Orbital Pairs in Local Correlation Treatments**
@@ -568,7 +567,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Physical Chemistry A, 2006, 110(5)
 
 
-### 2005
+## 2005
 
 
 120. **Ab initio study of the O2 binding in dicopper complexes**
@@ -592,7 +591,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Physical Chemistry Chemical Physics, 2005
 
 
-### 2004
+## 2004
 
 
 125. **First-principles theory for the H + CH4 → H2 + CH3 reaction**
@@ -652,7 +651,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    International Journal of Quantum Chemistry, 2004, 96(6)
 
 
-### 2003
+## 2003
 
 
 139. **Ab Initio Excited-State Dynamics of the Photoactive Yellow Protein Chromophore**
@@ -692,7 +691,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Zeitschrift Fur Physikalische Chemie, 2003, 217(3)
 
 
-### 2002
+## 2002
 
 
 148. **Theoretical study of the validity of the Born-Oppenheimer approximation in the CL + H2 → HCL + H reaction**
@@ -704,7 +703,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Physical Chemistry Chemical Physics, 2002, 4(6)
 
 
-### 2001
+## 2001
 
 
 150. **Analytical energy gradients for local coupled-cluster methods**
@@ -736,7 +735,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 2001, 114(2)
 
 
-### 2000
+## 2000
 
 
 157. **An investigation of the F+H2 reaction based on a full ab initio description of the open-shell character of the F(2P) atom**
@@ -800,7 +799,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Molecular Physics, 2000, 98(21)
 
 
-### 1999
+## 1999
 
 
 172. **Van der Waals interactions in the Cl + HD reaction**
@@ -844,7 +843,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy, 1999, 55(3)
 
 
-### 1998
+## 1998
 
 
 182. **Improved intermolecular water potential from global geometry optimization of small water clusters using local MP2**
@@ -888,7 +887,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Biophysical Journal, 1998, 75(4)
 
 
-### 1997
+## 1997
 
 
 192. **Time-dependent quantum simulations of FH2- photoelectron spectra on new ab initio potential energy surfaces for the anionic and the neutral species**
@@ -924,7 +923,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Computational Chemistry, 1997, 18(12)
 
 
-### 1996
+## 1996
 
 
 200. **The F + HD reaction: Cross sections and rate constants on an ab initio potential energy surface**
@@ -980,7 +979,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1996, 105(12)
 
 
-### 1995
+## 1995
 
 
 213. **Unimolecular dissociations of HCO, HNO and HO2: From regular to irregular dynamics**
@@ -1004,7 +1003,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1995, 102(10)
 
 
-### 1994
+## 1994
 
 
 218. **The Renner-Teller-induced predissociation of HCO(Ã 2A′). Wavepacket calculations using new ab initio potential energy surfaces**
@@ -1036,7 +1035,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Physical Chemistry, 1994, 98(42)
 
 
-### 1993
+## 1993
 
 
 225. **The first dipole-allowed electronic transition 1 1Σ+u-X 1Σ+g of CO2**
@@ -1067,7 +1066,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1993, 98(7)
 
 
-### 1992
+## 1992
 
 
 232. **Internally contracted multiconfiguration-reference configuration interaction calculations for excited states**
@@ -1091,7 +1090,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1992, 97(11)
 
 
-### 1991
+## 1991
 
 
 237. **Potential-energy surface control of the NH product state distribution in the decomposition reaction HN3(X̃ 1A′) → NH(a 1Δ) + N2 (X 1Σg+)**
@@ -1166,7 +1165,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1991, 94(12)
 
 
-### 1990
+## 1990
 
 
 255. **Low-lying electronic states of PH2+**
@@ -1222,7 +1221,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1990, 93(1)
 
 
-### 1989
+## 1989
 
 
 268. **Quantum scattering studies of electronically inelastic collisions of CN (X 2Σ+, A 2Π)with He**
@@ -1246,7 +1245,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1989, 90(2)
 
 
-### 1988
+## 1988
 
 
 273. **The first excited triplet state of NH3**
@@ -1290,7 +1289,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1988, 89(4)
 
 
-### 1987
+## 1987
 
 
 283. **Vibrational radiative lifetimes in H2Se and HCS-**
@@ -1310,7 +1309,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1987, 87(5)
 
 
-### 1986
+## 1986
 
 
 287. **MCSCF-CI Calculations of Radiative Transition Probabilities of PH and PD**
@@ -1366,7 +1365,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Faraday Discussions of the Chemical Society, 1986, 82
 
 
-### 1985
+## 1985
 
 
 300. **An efficient second-order MC SCF method for long configuration expansions**
@@ -1390,7 +1389,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1985, 83(9)
 
 
-### 1984
+## 1984
 
 
 305. **Quantum calculations on the rate constant for the O + OH reaction**
@@ -1425,7 +1424,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1984, 80(2)
 
 
-### 1983
+## 1983
 
 
 313. **Erratum: Ab initio calculations of low lying states of the BH+ and IH+ ions (The Journal of Chemical Physics (1982) 77 (3559))**
@@ -1441,7 +1440,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Physical Chemistry, 1983, 87(20)
 
 
-### 1982
+## 1982
 
 
 316. **Ab initio calculations of radiative transition probabilities in the X1σ+ state of SiO and the X 2σ+and A 2 Π states of SiO+**
@@ -1469,7 +1468,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1982, 77(7)
 
 
-### 1981
+## 1981
 
 
 322. **Ab initio calculation of the dipole moment function of hydrogen iodide**
@@ -1489,7 +1488,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1981, 74(10)
 
 
-### 1980
+## 1980
 
 
 326. **A quadratically convergent multiconfiguration-self-consistent field method with simultaneous optimization of orbitals and Cl coefficients**
@@ -1505,7 +1504,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1980, 73(5)
 
 
-### 1978
+## 1978
 
 
 329. **Temperature dependence of the geminate recombination of radical ion pairs**
@@ -1521,7 +1520,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1978, 68(5)
 
 
-### 1977
+## 1977
 
 
 332. **Theory of the magnetic field modulated geminate recombination of radical ion pairs in polar solvents: Application to the pyrene-N,N-dimethylaniline system**
@@ -1529,7 +1528,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Journal of Chemical Physics, 1977, 67(2)
 
 
-### 1976
+## 1976
 
 
 333. **Finite perturbation calculations for the static dipole polarizabilities of the first-row atoms**
