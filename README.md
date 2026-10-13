@@ -135,7 +135,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 31. **Scalable Electron Correlation Methods. 4. Parallel Explicitly Correlated Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD-F12)**
    Ma Q., Schwilk M., Koppl C., Werner H.-J.
-   Journal of Chemical Theory and Computation, 2017, 13(10)
+   [Journal of Chemical Theory and Computation, 2017, 13(10), 4871–4896](https://doi.org/10.1021/acs.jctc.7b00799)
 
 32. **Scalable Electron Correlation Methods. 3. Efficient and Accurate Parallel Local Coupled Cluster with Pair Natural Orbitals (PNO-LCCSD)**
    Schwilk M., Ma Q., Koppl C., Werner H.-J.
@@ -155,7 +155,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 36. **Parallel and low-order scaling implementation of Hartree-Fock exchange using local density fitting**
    Koppl C., Werner H.-J.
-   Journal of Chemical Theory and Computation, 2016, 12(7)
+   [Journal of Chemical Theory and Computation, 2016, 12(7), 3122–3134](https://doi.org/10.1021/acs.jctc.6b00251)
 
 37. **Scalable Electron Correlation Methods. 2. Parallel PNO-LMP2-F12 with Near Linear Scaling in the Molecular Size**
    Ma Q., Werner H.-J.
@@ -163,42 +163,42 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 38. **What is the price of open-source software?**
    Krylov A.I., Herbert J.M., Furche F., ... Skylaris C.-K., Werner H.-J.
-   Journal of Physical Chemistry Letters, 2015, 6(14)
+   [Journal of Physical Chemistry Letters, 2015, 6(14), 2751–2754](https://doi.org/10.1021/acs.jpclett.5b01258)
 
 39. **On the use of Abelian point group symmetry in density-fitted local MP2 using various types of virtual orbitals**
    Koppl C., Werner H.-J.
-   Journal of Chemical Physics, 2015, 142(16), 164108
+   [Journal of Chemical Physics, 2015, 142(16), 164108](https://doi.org/10.1063/1.4918772)
 
 40. **Communication: Improved pair approximations in local coupled-cluster methods**
    Schwilk M., Usvyat D., Werner H.-J.
-   Journal of Chemical Physics, 2015, 142(12), 121102
+   [Journal of Chemical Physics, 2015, 142(12), 121102](https://doi.org/10.1063/1.4916316)
 
 41. **Accurate thermochemistry from explicitly correlated distinguishable cluster approximation**
    Kats D., Kreplin D., Werner H.-J., Manby F.R.
-   Journal of Chemical Physics, 2015, 142(6), 064111
+   [Journal of Chemical Physics, 2015, 142(6), 064111](https://doi.org/10.1063/1.4907591)
 
 42. **Scalable electron correlation methods I.: PNO-LMP2 with linear scaling in the molecular size and near-inverse-linear scaling in the number of processors**
    Werner H.-J., Knizia G., Krause C., Schwilk M., Dornbach M.
-   Journal of Chemical Theory and Computation, 2015, 11(2)
+   [Journal of Chemical Theory and Computation, 2015, 11(2)](https://doi.org/10.1021/ct500725e)
 
 43. **Synthesis and characterization of fluorinated and sulfonated poly(arylene ether-1,3,4-oxadiazole) derivatives and their blend membranes**
    Hajdok I., Bona A., Werner H.-J., Kerres J.
-   European Polymer Journal, 2014, 52(1)
+   [European Polymer Journal, 2014, 52(1)](https://doi.org/10.1016/j.eurpolymj.2013.12.003)
 
 44. **The electronic ground state of [Fe(CO)3(NO)]-: A spectroscopic and theoretical study**
    Klein J.E.M.N., Miehlich B., Holzwarth M.S., ... Werner H.-J., Plietker B.
-   Angewandte Chemie International Edition, 2014, 53(7)
+   [Angewandte Chemie International Edition, 2014, 53(7)](https://doi.org/10.1002/anie.201309767)
 
 45. **Werner H.-J.**
    Molecular Physics, 2013, 111(21)
 
 46. **Pyrazine excited states revisited using the extended multi-state complete active space second-order perturbation method**
    Shiozaki T., Woywod C., Werner H.-J.
-   Physical Chemistry Chemical Physics, 2013, 15(1)
+   [Physical Chemistry Chemical Physics, 2013, 15(1)](https://doi.org/10.1039/c2cp43381h)
 
 47. **Explicitly correlated composite thermochemistry of transition metal species**
    Bross D.H., Hill J.G., Werner H.-J., Peterson K.A.
-   Journal of Chemical Physics, 2013, 139(9), 094302
+   [Journal of Chemical Physics, 2013, 139(9), 094302](https://doi.org/10.1063/1.4818725)
 
 48. **Analytical energy gradients for second-order multireference perturbation theory using density fitting**
    Gyrffy W., Shiozaki T., Knizia G., Werner H.-J.
@@ -206,19 +206,19 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
 
 49. **Multireference explicitly correlated F12 theories**
    Shiozaki T., Werner H.-J.
-   Molecular Physics, 2013, 111(5)
+   [Molecular Physics, 2013, 111(5)](https://doi.org/10.1080/00268976.2013.779393)
 
 50. **The orbital-specific virtual local triples correction: OSV-L(T)**
    Schutz M., Yang J., Chan G.K.-L., Manby F.R., Werner H.-J.
-   Journal of Chemical Physics, 2013, 138(5), 054109
+   [Journal of Chemical Physics, 2013, 138(5), 054109](https://doi.org/10.1063/1.4789415)
 
 51. **Role of tunneling in the enzyme glutamate mutase**
-   Rommel J.B., Liu Y., Werner H.-J., Kastner J.
-   Journal of Physical Chemistry B, 2012, 116(46)
+Rommel J.B., Liu Y., Werner H.-J., Kastner J.
+[Journal of Physical Chemistry B, 2012, 116(46)](https://doi.org/10.1021/jp308526t)
 
 52. **The orbital-specific-virtual local coupled cluster singles and doubles method**
-   Yang J., Chan G.K.-L., Manby F.R., Schutz M., Werner H.-J.
-   Journal of Chemical Physics, 2012, 136(14), 144105
+Yang J., Chan G.K.-L., Manby F.R., Schutz M., Werner H.-J.
+[Journal of Chemical Physics, 2012, 136(14), 144105](https://doi.org/10.1063/1.3696963)
 
 53. **Molpro: A general-purpose quantum chemistry program package**
    Werner H.-J., Knowles P.J., Knizia G., Manby F.R., Schutz M.
@@ -283,7 +283,7 @@ His honors include the Leibniz Prize from the German Research Foundation (2000),
    Werner H.-J., Knizia G., Adler T.B., Marchetti O.
    Progress in Physical Chemistry Volume 3 Modern and Universal First Principles Methods for Many Electron Systems in Chemistry and Physics, 2011
 
-6. **Local approximations for an efficient and accurate treatment of electron correlation and electron ex in molecules**
+69. **Local approximations for an efficient and accurate treatment of electron correlation and electron ex in molecules**
    Korona T., Kats D., Schutz M., ... Liu Y., Werner H.-J.
    Challenges and Advances in Computational Chemistry and Physics, 2011, 13
 
